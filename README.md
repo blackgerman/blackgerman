@@ -10,7 +10,7 @@ I'm Ulrich, a trilingual guy, and an avid problem solver. I'm best at Mobile App
 
 ⚡Most of my repositories are private ! Sorry can't show much about it.
 
-[![Ulrich's GitHub stats](https://github-readme-stats.vercel.app/api?username=blackgerman&count_private=true&include_all_commits=true&langs_count=true&orgs=kabadelivery)](https://github.com/anuraghazra/github-readme-stats)
+[![Ulrich's GitHub stats](https://github-readme-stats.vercel.app/api?username=blackgerman&count_private=true&include_all_commits=true&theme=radical&langs_count=true&orgs=kabadelivery)](https://github.com/anuraghazra/github-readme-stats)
  
 
 <!--
