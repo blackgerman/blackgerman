@@ -1,5 +1,15 @@
 ### Hi there 👋
 
+I'm Ulrich, a trilingual guy, and an avid problem solver. I'm best at Mobile App Dev, though i usually coach and web and backends teams as part of my Job.
+
+🔭I'm currently working on a cloud base platform for food and package deliveries
+
+🌱Preparing for my AWS Cloud Architect certification
+
+📫You can reach me at a.ulrich@kaba-delivery.com
+
+⚡Most of my repositories are private ! Sorry can't show much about it.
+
 <!--
 **blackgerman/blackgerman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
